@@ -1,1 +1,1 @@
-aprendiendo a crear bot de discord en js
+Learning how to create a discord bot from scratch.
